@@ -1,4 +1,4 @@
-# Captura de usuários que visualizam seu site por IP.
+# Sistema de login simples
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](#)
 
